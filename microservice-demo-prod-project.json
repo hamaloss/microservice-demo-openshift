@@ -39,7 +39,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "catalog:prod"
                             }
                         }
@@ -149,7 +149,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "customer:prod"
                             }
                         }
@@ -259,7 +259,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "mongo:prod"
                             }
                         }
@@ -385,7 +385,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "eureka:prod"
                             }
                         }
@@ -495,7 +495,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "order:prod"
                             }
                         }
@@ -605,7 +605,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-prod",
+                                "namespace": "microservice-demo-test",
                                 "name": "zuul:prod"
                             }
                         }

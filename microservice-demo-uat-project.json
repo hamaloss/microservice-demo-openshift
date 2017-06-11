@@ -39,7 +39,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "catalog:uat"
                             }
                         }
@@ -149,7 +149,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "customer:uat"
                             }
                         }
@@ -259,7 +259,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "mongo:uat"
                             }
                         }
@@ -385,7 +385,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "eureka:uat"
                             }
                         }
@@ -495,7 +495,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "order:uat"
                             }
                         }
@@ -605,7 +605,7 @@
                             ],
                             "from": {
                                 "kind": "ImageStreamTag",
-                                "namespace": "microservice-demo-uat",
+                                "namespace": "microservice-demo-test",
                                 "name": "zuul:uat"
                             }
                         }
